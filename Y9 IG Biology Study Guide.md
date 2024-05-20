@@ -74,11 +74,11 @@ Carl Linnaeus: Father of taxonomy
 ##### Vertebrates
 **Animals with a spine**
 
-*(In the order of revolution):*
+*(In the order of evolution):*
 
 **Fish**
 
-![](Images/Examples_Fish.jpeg)
+![](/Images/Examples_Fish.jpeg)
 
 - Scaly, slippery skin
 - Uses gills to breath
@@ -88,7 +88,7 @@ Carl Linnaeus: Father of taxonomy
 
 **Amphibians**
 
-![](Images/Examples_Amphibian.jpeg)
+![](/Images/Examples_Amphibian.jpeg)
 
 - Slippery skin without scales
 - Young uses gills to breath
@@ -99,7 +99,7 @@ Carl Linnaeus: Father of taxonomy
 
 **Reptiles**
 
-![](Images/Examples_Reptile.jpeg)
+![](/Images/Examples_Reptile.jpeg)
 
 - Dry, scaly skin
 - Lays hard eggs (not as hard as birds)
@@ -109,7 +109,7 @@ Carl Linnaeus: Father of taxonomy
 
 **Birds**
 
-![](Images/Examples_Bird.jpeg)
+![](/Images/Examples_Bird.jpeg)
 
 - Warm blooded
 - Lays hard shelled eggs
@@ -119,7 +119,7 @@ Carl Linnaeus: Father of taxonomy
 
 **Mammals**
 
-![](Images/Examples_Mammal.jpeg)
+![](/Images/Examples_Mammal.jpeg)
 
 - Warm blooded
 - (mostly) Do not lay eggs
@@ -132,7 +132,7 @@ Carl Linnaeus: Father of taxonomy
 
 **Insects**
 
-![](Images/Examples_Insect.jpeg)
+![](/Images/Examples_Insect.jpeg)
 - 3 segments in the body 
 - wings
 - antennae
@@ -140,7 +140,7 @@ Carl Linnaeus: Father of taxonomy
 
 **Crustaceans**
 
-![](Images/Examples_Crustacean.jpeg)
+![](/Images/Examples_Crustacean.jpeg)
 
 - 5-7 pairs of legs
 - no wings
@@ -148,7 +148,7 @@ Carl Linnaeus: Father of taxonomy
 
 **Myriapods**
 
-![](Images/Examples_Myriapod.jpeg)
+![](/Images/Examples_Myriapod.jpeg)
 
 - Many segments and many pairs of legs
 - Long body
@@ -156,12 +156,38 @@ Carl Linnaeus: Father of taxonomy
 
 **Arachnids**
 
-![](Images/Examples_Arachnid.jpeg)
+![](/Images/Examples_Arachnid.jpeg)
 
 - 2 segments in the body
 - 4 pairs of legs
 - no wings
 - no antennae
+
+##### Plants
+
+###### Flowering Plants
+
+**Plants that grow and repreduce with flowers**
+
+![Monocots and dicots comparison](/Images/Examples_FloweringPlants.jpeg)
+
+**Monocots**
+- amount of petals = multiples of 3
+- one cotyledon in seeds
+- veins in leaves are parallel
+
+**Dicots**
+- amount of petals = multiples of 4 or 5
+- two cotyledon in seeds
+- veins are branched
+
+###### Non-flowering plants
+
+![](/Images/Examples_Amphibian.jpeg)
+
+**Ferns**
+- reproduce with spores
+- no flowers
 
 #### Binomial naming system
 **A system of naming species developed by Carl Linnaeus in the mid 1700s**
@@ -175,27 +201,93 @@ Example: *Homo sapiens* - Binomial name of modern humans
 #### Dichotomous Keys
 **A table that classifies species with characteristics, each characteristic branching into two new ones to differentiate species**
 
-![Example of a Dichotomous Key and how to read it from Encyclopedia Brittanica](Images/Examples_DichotomousKey.jpg )
+![Example of a Dichotomous Key and how to read it from Encyclopedia Brittanica](/Images/Examples_DichotomousKey.jpg )
 
 Example of a Dichotomous Key and how to read it from Encyclopedia Brittanica
 
 #### Cladograms
 **Similar to Dichotomous Keys, a diagram that differentiate species from a common ancestor**
 
-![Examples of a Cladogram and how to read it](Images/Examples_Cladogram.jpg)
+![Examples of a Cladogram and how to read it](/Images/Examples_Cladogram.jpg)
 
 Example of a Cladogram of dinosaur species
 
 ### Key Definitions
 **Cladogram** - a branching diagram showing the relationship between a number of species according to their characteristics
+**Cotyledon** - a small leaf within a seed that grows into a plant
 **Dichotomous Key** - A table that classifies species with characteristics, each characteristic branching into two new ones to differentiate species
 **Metabolism** - All chemical reactions that happens within cells
 **Photosythesis** - A reaction occuring in the chloroplasts of cells, turning carbon dioxide, water, and sunlight into oxygen, glucose, and energy. 
 ![Chemical Equation of Photosynthesis]()
 **Species** - A group of organism which are able to produce fertile offspring
-**Taxonomy** - 
+**Taxonomy** - A way to identify an organism and place it into the correct group with related organisms according to shared physical characteristics
 
-## Unit 2
+## Unit 2 - Cell Structure
+
+### Organelles of a Cell
+
+|Organelle|Function|
+|---------|--------|
+|Chloroplast|Contains chlorophyll, which is used for absorbing light for photosynthesis|
+|Cell membrane|A membrane that controls what enters and exits a cell|
+|Cell wall|Protects the cell|
+|Cytoplasm|Material inside the cell that contains all the other organelles, houses metabolism|
+|Endoplasmic Reticulum|Network of membranes containing ribosomes that produce protein, including smooth ER and rough ER|
+|Golgi Apparatus|Network of membranes in charge of controlling the transportation vesicles|
+|Nucleus|Contains genetic material of the cell|
+|Mitochondria|Aerobic respiration takes place here, producing ATP|
+|Ribosome|Protein synthesis takes place here|
+|Vacuole|A large vesicle found in plant cells to store water and minerals and keep the cell's shape|
+|Vesicle|A capsule that can hold and transport substance|
+
+### Types of cells
+
+#### Eukaryotic Cells
+**Cells that have nuclei**
+
+- Animal Cells
+(animal cell diagram)
+- Plant Cells
+(plant cell diagram)
+
+#### Prokaryotic Cells
+**Cells without a true nucleus including bacteria and archaea cells**
+
+(bacterial cell diagram)
+
+**Note that bacterial cells have different structures and organelles**
+
+|Organelle|Function|
+|---------|--------|
+|Nucleoid|Naked DNA of cell|
+|Plasmid|Extra circular DNA that can contain extra genes that give immunity to antibodies|
+|Capsule|Another shell over cell membrane and cell wall the protects cell from antibodies and/or drying out|
+|Flagella|Structure for movement|
+|Pili|Structure for attaching to other cells|
+
+#### Organisation of Life: 
+
+Small>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Large
+
+Cells -> Tissues -> Organs -> Organ Systems -> Organisms
+
+**Not all cells contain all of the organelles stated above. They are different and specialized, each to do one job really well, so they only contain the organelles needed for that specific job**
+
+#### Cells that we need to know
+
+**Ciliated Cells** - contains cilia, small furs that can move mucus out of the trachea and bronchi
+
+![](/Images/Examples_CiliatedCell.jpeg)
+
+**Root Hair Cells** - large surface area, absorbs minerals thru active transport, absorbs water thru diffusion & osmosis, large vacuole for storage
+
+![](/Images/Examples_RootHairCells.jpeg)
+
+**Red Blood Cells** - no nucleus, large surface area, biconcave structure, transports oxygen in blood.
+
+![](/Images/Examples_RedBloodCell.jpeg)
+
+
 
 ## Unit 3
 
