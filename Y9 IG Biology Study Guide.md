@@ -214,12 +214,19 @@ Example of a Cladogram of dinosaur species
 
 ### Key Definitions
 **Cladogram** - a branching diagram showing the relationship between a number of species according to their characteristics
+
 **Cotyledon** - a small leaf within a seed that grows into a plant
+
 **Dichotomous Key** - A table that classifies species with characteristics, each characteristic branching into two new ones to differentiate species
+
 **Metabolism** - All chemical reactions that happens within cells
+
 **Photosythesis** - A reaction occuring in the chloroplasts of cells, turning carbon dioxide, water, and sunlight into oxygen, glucose, and energy. 
+
 ![Chemical Equation of Photosynthesis]()
+
 **Species** - A group of organism which are able to produce fertile offspring
+
 **Taxonomy** - A way to identify an organism and place it into the correct group with related organisms according to shared physical characteristics
 
 ## Unit 2 - Cell Structure
@@ -287,26 +294,115 @@ Cells -> Tissues -> Organs -> Organ Systems -> Organisms
 
 ![](/Images/Examples_RedBloodCell.jpeg)
 
+**Palisade Mesophyll Cells** - Has chlorophyll and are used for photosynthesis
+
+![](/Images/Examples_PalisadeMesophyllCells.jpeg)
+
+**Neurons** - Large, long cells that conduct electrical impulses.
+
+![](/Images/Examples_Neuron.jpeg)
+
+**Sperm & Egg Cells** - Used in reproduction, contains genetic material of mother and father
+
+![](/Images/Examples_Sperm-Egg.jpeg)
+
+### Magnification
+
+Magnification = image size/actual size
+
+1mm = 1000um
+1um = 1000nm
+
+### Key Definitions
+**Aerobic Respiration** - reaction that produces ATP using glucose and oxygen
+
+## Unit 3 - Diffusion, Transport, and Osmosis
 
 
-## Unit 3
+### Diffusion
+**Particles move randomly due to Brownian motion, but there is an overall tendency to the movement, which is from high concentration to low concentration (down a concentration gradient)**
 
-## Unit 4
+**Does not require energy**
 
-## Unit 5
+#### Factors that affect rate of diffusion:**
+- Temperature (higher temp = higher diffusion rate)
+- Surface area (larger surface area = higher diffusion rate)
+- Concentration (higher concentration = higher diffusion rate)
+- Distance (closer distance = higher diffusion rate)
 
-## Unit 6
+**Cells use diffusion to absorb useful substances and remove waste products**
 
-## Unit 7
+#### Surface Area to Volume Ratio
 
-## Unit 8
+Cells are small because they need to keep their surface area to volume ratio large. Large surface area to volume ratio means that each unit of the cytoplasm has less units of cell membrane. This is significant because if cells get too large, the rate of diffusion is too slow for particles to go through it when it is needed. To keep the surface area to volume ratio large, the cell has to stay small.
 
-## Unit 9
+### Facilitated Diffusion
+**Larger or charged particles that cannot diffuse straight through the cell membrane, and need protein channels to facilitate them. The protein channel can be opened or closed, so the cell membrane can control what enters or leaves the cell.**
 
-## Unit 10
+### Osmosis
+**Diffusion of water through a semi-permeable membrane**
 
-## Unit 11
+- Movement from high water potential (dilute solution) to low water potential (concentrated solution)
+- Solute cannot pass through membrane and also bonds with water, so water cannot go away when water potential is low
 
-## Unit 12
+![](/Images/Examples_Solution.png)
 
-## Unit 13
+#### Keywords
+**Isotonic solution** - The water potential of the solution and cytoplasm is the same (no net osmosis)
+
+**Hypertonic solution** - The solution's water potential is lower than the cytoplasm's (more concentrated). (osmosis out of the cell)  Animal cells will shrink; Plant cells lose turgor and becomes flaccid  
+
+**Hypotonic solution** - The solution's water potential is higher than the cytoplasm's (less concentrated). (osmosis into the cell) 
+Animal cells will swell and burst; Plant cells will have turgor
+
+### Active Transport
+**Movement of particles from low to high concentration (against concentration gradient)**
+
+**Requires energy**
+
+1. A protein with an active site that allows a specific molecule to fit in sits on the cell membrane
+2. Energy in form of ATP is used to change the opening of the protein
+3. The molecule is able to transfer to the opposite side of the membrane
+
+### Key Definitions
+**Brownian motion** - all particles move randomly, even without energy applied.
+
+**Flaccid** - a plant becoming soft and drooping due to lack of water
+
+**Turgor** - rigidness of plant cells when it has water due to its cell walls holding the pressure in
+
+## Unit 4 - Biological Molecules
+
+### CHONPS
+- Carbon
+- Hydrogen
+- Oxygen
+- Nitrogen
+- Phosphorus
+- Sulfur
+
+### Carbohydrates
+
+#### Glucos
+
+### Proteins
+
+### Lipids
+
+## Unit 5 - Enzymes
+
+## Unit 6 - Photosynthesis
+
+## Unit 7 - Nutrition and Digestion
+
+## Unit 8 - Plant Transport
+
+## Unit 9 - Animal Transport (Circulation)
+
+## Unit 10 - Immune System
+
+## Unit 11 - Gas Exchange
+
+## Unit 12 - Respiration
+
+## Unit 13 - Excretion
