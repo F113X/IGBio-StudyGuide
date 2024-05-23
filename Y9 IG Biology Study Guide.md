@@ -183,7 +183,7 @@ Carl Linnaeus: Father of taxonomy
 
 ###### Non-flowering plants
 
-![](/Images/Examples_Amphibian.jpeg)
+![](/Images/Examples_Ferns.jpeg)
 
 **Ferns**
 - reproduce with spores
@@ -383,9 +383,55 @@ Animal cells will swell and burst; Plant cells will have turgor
 
 ### Carbohydrates
 
-#### Glucos
+**Sugar**
+
+**Saccharides**
+
+#### Glucose
+**Monomer of carbohydrate**
+
+![](/Images/Diagrams_Glucose.jpeg)
+
+**C6H12O6**
+
+- Short term energy storage
+
+#### Other Monomers of Sugars (Monosaccharides)
+- Fructose
+- Galactose
+- etc
+
+#### Disaccharides 
+**2 Monosaccharides joined together**
+- Sucrose
+- Lactose
+- Maltose
+- etc
+
+#### Other Polymers of sugars (Polysaccharides)
+
+##### Starch
+**Long chains of glucose found in plants**
+
+Can be broken down for glucose.
+
+##### Glycogen
+**Long chains of glucose found in animals**
+
+##### Cellulose (Fibres)
+**Long, regular chains of glucose used to make cell walls of plants**
 
 ### Proteins
+**Building blocks of life**
+
+**Amino Acids - Monomer of proteins; there are many types of amino acids**
+
+**Made of carbon, oxygen, hydrogen, sulfur, and nitrogen**
+
+**Polypeptites - long chains of amino acids**
+
+
+
 
 ### Lipids
 
